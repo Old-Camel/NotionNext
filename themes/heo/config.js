@@ -95,9 +95,9 @@ const CONFIG = {
         title_1: 'Golang',
         img_1: '/images/heo/golang.png',
         color_1: '#f29e39',
-        title_2: 'Java',
-        img_2: '/images/heo/java.png',
-        color_2: '#2c51db'
+        title_2: 'illustrator',
+        img_2: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
+        color_2: '#f29e39'
     },
     // {
     //   title_1: 'illustrator',

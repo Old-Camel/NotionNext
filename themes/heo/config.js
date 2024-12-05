@@ -39,21 +39,23 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    ' O',
+    ' L',
+    ' D',
+    ' C',
+    ' A',
+    ' M',
+    ' E',
+    ' L',
   ],
 
   // 个人资料底部按钮
-  HEO_INFO_CARD_URL1: '/about',
-  HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
-  HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
-  HEO_INFO_CARD_TEXT3: '了解更多',
+  // HEO_INFO_CARD_URL1: '/about',
+  // HEO_INFO_CARD_ICON1: 'fas fa-user',
+  // HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
+  // HEO_INFO_CARD_ICON2: 'fab fa-github',
+  // HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
+  // HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
@@ -71,15 +73,15 @@ const CONFIG = {
       color_1: '#57b6e6',
       title_2: 'K8s',
       img_2: '/images/heo/k8s.png',
-      color_2: '#4082c3'
+      color_2: '#ffffff'
     },
     {
       title_1: 'Rust',
       img_1: '/images/heo/rust.png',
-      color_1: '#7e3f3f',
+      color_1: '#e6cdcd',
       title_2: 'Python',
       img_2: '/images/heo/20235c0731cd4c0c95fc136a8db961fdf963071502.webp',
-      color_2: '#e37676'
+      color_2: '#ffffff'
     },
     {
         title_1: 'Sketch',
@@ -108,9 +110,9 @@ const CONFIG = {
       title_1: 'JS',
       img_1: '/images/heo/2023786e7fc488f453d5fb2be760c96185c0075502.webp',
       color_1: '#f7cb4f',
-      title_2: 'HTML',
-      img_2: '/images/heo/202372b4d760fd8a497d442140c295655426070302.webp',
-      color_2: '#e9572b'
+      title_2: 'illustrator',
+        img_2: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
+        color_2: '#f29e39'
     },
     {
       title_1: 'Git',

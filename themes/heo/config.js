@@ -34,12 +34,12 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: '愿您',
+  HEO_HERO_TITLE_2: '有个好心情!',
+  HEO_HERO_TITLE_3: 'OLDCAMEL.CC',
+  HEO_HERO_TITLE_4: '早安 ',
+  HEO_HERO_TITLE_5: '待会见！',
+  HEO_HERO_TITLE_LINK: 'oldcamel.cc',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 

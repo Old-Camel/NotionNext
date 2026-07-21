@@ -39,7 +39,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'OLDCAMEL.CC',
   HEO_HERO_TITLE_4: '早安 ',
   HEO_HERO_TITLE_5: '待会见！',
-  HEO_HERO_TITLE_LINK: 'oldcamel.cc',
+  HEO_HERO_TITLE_LINK: '',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 

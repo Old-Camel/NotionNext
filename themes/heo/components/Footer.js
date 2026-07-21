@@ -36,7 +36,7 @@ const Footer = () => {
         }`}
       >
         <div id='footer-bottom-left' className='text-center lg:text-start'>
-          <PoweredBy />
+          {/*<PoweredBy />*/}
           <div className='flex gap-x-1'>
             <CopyRightDate />
             <a
